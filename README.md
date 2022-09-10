@@ -6,10 +6,10 @@ There is not a variety of solutions to read README files so the developer can us
 
 ## Usage
 
-'''python
+```python
     reader = markdown(file_path)
     text, class = reader.read_line()
-'''
+```
 
 ## License
 [GNU](./LICENSE)
